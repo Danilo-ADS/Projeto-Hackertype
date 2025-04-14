@@ -108,5 +108,7 @@ A empresa .Lta procura uma forma de ver o histórico de hackers éticos, com inf
 - **Dificuldade de encontrar boas oportunidades:** Falta de centralização de programas justos e confiáveis
 
 ---
-Acesse o [Storyboard hackertype ](https://www.figma.com/board/78NiO4hdnyFNJJP5lLkUZq/Storyboard-hackertype?node-id=0-1&t=iSf1vzLTQE3r15yx-1)
-Acesse o [Prototipo HackerType ](https://www.figma.com/design/uZ77kcxZ1mPaEXQLIVX16v/Untitled?node-id=3-26&t=szkofB7VhxC8h1VS-1)
+-Acesse o [Storyboard hackertype ](https://www.figma.com/board/78NiO4hdnyFNJJP5lLkUZq/Storyboard-hackertype?node-id=0-1&t=iSf1vzLTQE3r15yx-1)
+-Acesse o [Prototipo HackerType ](https://www.figma.com/design/uZ77kcxZ1mPaEXQLIVX16v/Untitled?node-id=3-26&t=szkofB7VhxC8h1VS-1)
+-![Descrição da imagem](./captura_de_tela_2025-04-14_162024.png)
+
